@@ -3,6 +3,7 @@ Sistema de camaras de seguridad con Inteligencia Artificial para detectar gestos
 ## Comenzando🚀
 
 Usa git clone para copiar el repositorio a su computadora
+
 ```git clone https://github.com/SamuelCamposM/sof-ia-full.git```
 
 
@@ -11,9 +12,12 @@ Mira **Deployment** par ver como desplegar el proyecto.
 ### Pre-requisitos📋
 
 
-Node.js.
-MongoDB.
-Camara Web.
+**Node.js.**
+
+**MongoDB.**
+
+**Camara Web.**
+
 
 ### Instalacion🔧
 
@@ -35,11 +39,12 @@ En en el frontend ejecuta el comando:
 ### Deploy📦
 
 Para crear el instalador con Electron ejecuta el siguiente comando dentro del frontend:
+
 ```npm run electron:build```
 
 Se creara una carpeta llamada *dist_electron* donde se encontrara el *set-up.exe*
 
-Ejecuta el *.exe* e instala
+Ejecuta el **.exe** e instala
 
 ### Construido con 🛠️
 
