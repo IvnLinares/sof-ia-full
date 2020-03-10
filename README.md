@@ -36,7 +36,7 @@ En el backend ejecuta el comando:
 En en el frontend ejecuta el comando:
 ´´´npm run electron:serve```
 
-### Deploy📦
+### Deployment📦
 
 Para crear el instalador con Electron ejecuta el siguiente comando dentro del frontend:
 
