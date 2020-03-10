@@ -56,11 +56,17 @@ Las tecnologias utilizadas son:
 ### Desarrolladores ✒️
 
 **Nelson Hernandez** (https://github.com/Nelson-developer)
+
 **Samuel Benjamin** (https://github.com/SamuelCamposM)
+
 **Cristhoper Mendez** (https://github.com/SamuelCamposM)
+
 **Gerardo Garcia** (https://github.com/GerardoJose002)
+
 **Iván Linares** (https://github.com/IvnLinares)
+
 **Diego Guerrero** 
+
 
 ### Licencia 📄
 
